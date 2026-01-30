@@ -46,7 +46,8 @@ If the user asks for prompts (e.g., "Generate prompts for this", "Draw it"):
 1.  Read **[prompt-rules.md](references/prompt-rules.md)** carefully.
 2.  Convert each scene from the script into a specific AIGC prompt.
 3.  Ensure every prompt starts with `Based on the image uploaded by the user`.
-4.  Ensure visual consistency between prompts.
+4.  **CRITICAL**: Every prompt MUST include the instruction `(Text inside bubble: "...")` containing the specific Chinese dialogue from the script.
+5.  Ensure visual consistency between prompts.
 
 ## 4. Constraints
 

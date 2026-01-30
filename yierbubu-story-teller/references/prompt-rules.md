@@ -25,6 +25,7 @@
   - **普通/对话**: `Oval shape bubble`
   - **困惑/思考**: `Jagged shape bubble` (可选)
 - **内容限制**: 仅使用气泡对话，**移除**所有旁白框（Narrative box）和内心独白框。
+- **对话文案 (MANDATORY)**: 每个提示词必须明确指定气泡内的文字内容，格式为：`(Text inside bubble: "这里填中文台词")`。这是强制要求。
 
 ## 4. 叙事连贯性 (Coherence)
 - **禁止省略**: 严禁使用 "Same as above" 或 "Continued from last scene"。
