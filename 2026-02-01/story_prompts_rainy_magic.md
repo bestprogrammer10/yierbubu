@@ -44,7 +44,7 @@ Based on the image uploaded by the user, healing hand-drawn style. Dynamic shot.
 
 ### 第5幕：狼狈的英雄
 **Prompt (CN)**:
-根据用户上传的图片生成，治愈系手绘风格。近景特写。布布 (Q版棕熊) 停在一二面前，气喘吁吁。他浑身湿透，刘海贴在脑门上，水珠顺着下巴滴落。但他脸上挂着超级灿烂、傻乎乎的笑容。背景是模糊的雨街。布布头顶上方有一个云朵形状的气泡，气泡内文字：“呼……呼……我来接你了！”。 --ar 3:4
+根据用户上传的图片生成，治愈系手绘风格。近景特写。布布 (Q版棕熊) 停在一二面前，气喘吁吁。他浑身湿透，水珠顺着下巴滴落。但他脸上挂着超级灿烂、傻乎乎的笑容。背景是模糊的雨街。布布头顶上方有一个云朵形状的气泡，气泡内文字：“一……二……我来接你了！”。 --ar 3:4
 
 **Prompt (EN)**:
 Based on the image uploaded by the user, healing hand-drawn style. Close-up. Bu Bu (Q-version Brown Bear) stops in front of Yi Er, panting. He is soaked, bangs sticking to his forehead, water droplets dripping from his chin. But he has a super bright, silly smile on his face. Background is a blurred rainy street. Above Bu Bu's head is a cloud-shaped comic bubble. Text inside bubble: "呼……呼……我来接你了！". --ar 3:4
@@ -71,7 +71,7 @@ Based on the image uploaded by the user, healing hand-drawn style. Low angle sho
 
 ### 第8幕：冲啊！
 **Prompt (CN)**:
-根据用户上传的图片生成，治愈系手绘风格。全景侧面。布布 (Q版棕熊) 侧身用肩膀轻轻撞了一下身旁的一二 (Q版白熊)，表情调皮。一二也笑了，一只手抓住了布布的衣角。两人都在外套的遮蔽下。准备起跑的姿势。布布头顶上方有一个兴奋的爆炸状气泡，气泡内文字：“准备好了吗？3，2，1——冲鸭！”。 --ar 3:4
+根据用户上传的图片生成，治愈系手绘风格。全景侧面。布布 (Q版棕熊) 侧身用肩膀轻轻撞了一下身旁的一二 (Q版白熊)，表情调皮。一二也笑了，一只手抓住了布布的衣角。两人都在外套的遮蔽下。准备起跑的姿势。布布头顶上方有一个兴奋的爆炸状气泡，气泡内文字：“没关系的，一二，准备好了吗？3，2，1——冲鸭！”。 --ar 3:4
 
 **Prompt (EN)**:
 Based on the image uploaded by the user, healing hand-drawn style. Full shot, side view. Bu Bu (Q-version Brown Bear) playfully bumps Yi Er (Q-version White Bear) with his shoulder. Yi Er is also smiling, one hand grabbing the corner of Bu Bu's clothes. Both are under the cover of the jacket. Ready to run posture. Above Bu Bu's head is an excited explosion-shaped comic bubble. Text inside bubble: "准备好了吗？3，2，1——冲鸭！". --ar 3:4

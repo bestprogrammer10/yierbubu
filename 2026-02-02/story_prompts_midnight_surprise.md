@@ -6,7 +6,7 @@
 ---
 
 ### Scene 1
-> **Prompt (Chinese)**: 根据用户上传的图片生成，治愈系手绘风格。客厅沙发，夜晚柔和的灯光。Bu Bu (Q版棕熊) 盘腿坐在沙发角落，双手捧着手机，死死盯着屏幕，表情异常严肃紧张，手机屏幕的光映在他脸上。Yi Er (Q版白熊) 手里拿着半个啃过的苹果，站在沙发靠背后面，眉头微皱，若有所思地盯着布布的后脑勺，眼神充满探究。Yi Er (Q版白熊) 头顶上方有一个思考状气泡 (气泡文字: "平时这个点，他不早就困得点头了吗……？")。
+> **Prompt (Chinese)**: 根据用户上传的图片生成，治愈系手绘风格。客厅沙发，夜晚柔和的灯光。Bu Bu (Q版棕熊) 坐在沙发角落，双手捧着手机，死死盯着屏幕，表情异常严肃紧张，手机屏幕的光映在他脸上。Yi Er (Q版白熊) 手里拿着半个啃过的苹果，站在沙发靠背后面，眉头微皱，若有所思地盯着布布的后脑勺，眼神充满探究。Yi Er (Q版白熊) 头顶上方有一个思考状气泡 (气泡文字: "平时这个点，他不早就困得点头了吗……？")。
 > **Prompt (English)**: Based on the image uploaded by the user, healing hand-drawn style. Living room sofa, soft night lighting. Bu Bu (Q-version Brown Bear) sits cross-legged in the corner of the sofa, holding a mobile phone in both hands, staring at the screen intently, expression unusually serious and nervous, the light from the phone screen reflecting on his face. Yi Er (Q-version White Bear) stands behind the sofa backrest holding a half-eaten apple, frowning slightly, staring thoughtfully at the back of Bu Bu's head, eyes full of inquiry. Above Yi Er (Q-version White Bear) is a thought bubble. (Text inside bubble: "平时这个点，他不早就困得点头了吗……？").
 
 ### Scene 2
@@ -34,7 +34,7 @@
 > **Prompt (English)**: Based on the image uploaded by the user, healing hand-drawn style. Bedroom bed. Yi Er (Q-version White Bear) sits on top of Bu Bu (Q-version Brown Bear), pinning his shoulders with both hands, staring at him angrily, cheeks puffed up like buns. Bu Bu (Q-version Brown Bear) looks still in shock, tightly clutching the mobile phone in his hand. Above Yi Er (Q-version White Bear) is an angry bubble. (Text inside bubble: "这么晚不睡，还躲躲藏藏！是不是背着我有了别的熊！"). Above Bu Bu (Q-version Brown Bear) is a trembling bubble. (Text inside bubble: "冤……冤枉啊！").
 
 ### Scene 8
-> **Prompt (Chinese)**: 根据用户上传的图片生成，治愈系手绘风格。手机屏幕特写。Bu Bu (Q版棕熊) 无奈地把手机屏幕转向 Yi Er (Q版白熊)。屏幕上是一个购票界面，显示着“迪士尼乐园 - 七夕限定套票”，倒计时定格在 00:00:01，按钮显示“抢票成功”。Bu Bu (Q版棕熊) 头顶上方有一个普通椭圆气泡 (气泡文字: "我定了闹钟抢那个……你念叨了好久的限定票。")。
+> **Prompt (Chinese)**: 根据用户上传的图片生成，治愈系手绘风格。手机屏幕特写。Bu Bu (Q版棕熊) 无奈地把手机屏幕转向 Yi Er (Q版白熊)。屏幕上是一个购票界面，显示着“熊士尼乐园 - 情人节限定套票”，倒计时定格在 00:00:01，按钮显示“抢票成功”。Bu Bu (Q版棕熊) 头顶上方有一个普通椭圆气泡 (气泡文字: "我定了闹钟抢那个……你念叨了好久的限定票。")。
 > **Prompt (English)**: Based on the image uploaded by the user, healing hand-drawn style. Close-up of the mobile phone screen. Bu Bu (Q-version Brown Bear) helplessly turns the phone screen towards Yi Er (Q-version White Bear). The screen shows a ticket purchasing interface, displaying "Disney Land - Tanabata Limited Package", countdown frozen at 00:00:01, button showing "Purchase Successful". Above Bu Bu (Q-version Brown Bear) is a normal oval bubble. (Text inside bubble: "我定了闹钟抢那个……你念叨了好久的限定票。").
 
 ### Scene 9
